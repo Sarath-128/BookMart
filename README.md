@@ -1,3 +1,8 @@
+![Django](https://img.shields.io/badge/React.js-blue)
+![Uiverse](https://img.shields.io/badge/RestAPI-green)
+![Stripe](https://img.shields.io/badge/Django-red)
+
+
 # BookMart
 
 **BookMart** is a library management system designed to streamline and organize library operations.
